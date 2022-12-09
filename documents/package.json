@@ -1,0 +1,20 @@
+{
+  "name": "graphql-exam-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.2.2",
+    "@apollo/server-plugin-landing-page-graphql-playground": "^4.0.0",
+    "graphql": "^16.6.0"
+  }
+}
